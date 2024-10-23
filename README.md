@@ -16,7 +16,7 @@ All IPs and Domains: A file containing the complete list of IPs and domains retr
 Malicious IPs and Domains: A separate file listing any IPs or domains flagged as malicious by VirusTotal, providing clear visibility into potential threats.
 
 Installation:
-To install the tool and get started, follow the detailed instructions available on my Medium article.
+To install the tool and get started, follow the detailed instructions available on my Medium article =>  https://medium.com/@aymanebendalaa/seceye-scanner-tool-for-real-time-ip-and-domain-reputation-analysis-b33e70b10ba7
 
 Conclusion:
 This tool is perfect for network administrators and security analysts, automating the process of Sysmon log analysis and improving cybersecurity. By efficiently utilizing VirusTotal, it enhances the ability to detect and respond to threats in real-time.
